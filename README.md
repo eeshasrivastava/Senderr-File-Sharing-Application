@@ -1,1 +1,1 @@
-# Senderr-File-Sharing-Application
+# Senderr - Realtime File Sharing Application
